@@ -16,12 +16,12 @@
     </table>
 </body>
 
-# Ekhemmm
+## Ekhemmm
 Melanjutkan praktikum sebelumnya pada repository dengan nama **`Lab7Web.`**
 
-# Tutor Yang Singkat Sekali
+## Tutor Yang Singkat Sekali
 
-# BwaT Tabel
+## BwaT Tabel
  ```
 CREATE TABLE user (
  id INT(11) auto_increment,
@@ -33,7 +33,7 @@ CREATE TABLE user (
 ```
 ![Tab well](img/ss1.png)
 
-# SQL LOgIn
+## SQL LOgIn
 ```
 <?php
 namespace App\Models;
@@ -48,7 +48,7 @@ class UserModel extends Model
 ```
 
 
-# Model User
+## Model User
 Buat Controller baru dengan nama `User.php` pada direktori `app/Controllers`
 Kemudian tambahkan `method index()` untuk menampilkan daftar user, dan method 
 `login()` untuk proses login.
@@ -106,7 +106,7 @@ class User extends BaseController
  }
 }
 ```
-# View LOgIn Brdiii..
+## View LOgIn 
 Buat New Directory dengan nama `user` pada direktori app/views, kemudian buat file 
 baru dengan nama `login.php.`
 ```
@@ -144,7 +144,7 @@ btn-primary">Login</button>
 </body>
 </html>
 ```
-# UserSeeder bukan User Roam
+## UserSeeder bukan User Roam
 Dilanjut dengan Membuat `database seeder`, Buka CLI Kemudyan Masukkan Perintah
  `php spark make:seeder UserSeeder` , Open file `UserSeeder` pada Lokasi /app/Database/Seeds/UserSeeder.php,
  Masukkan atau Masukkin? perintah berikut :
@@ -170,7 +170,7 @@ Masuk kembali ke CLI lalu masukkan perintah beikut : `php spark db:seed UserSeed
 
 - Akses File  dengan url :  http://localhost:8080/user/login
 
-# Outvut
+## Outvut
 
 ![Image](img/ss2.png)
 
@@ -179,3 +179,6 @@ Masuk kembali ke CLI lalu masukkan perintah beikut : `php spark db:seed UserSeed
 ![Image](img/ss4.png)
 
 ![Image](img/ss5.png)
+
+## Done
+# Panjang Umur Untuk Semua Hal-Hal Baik
