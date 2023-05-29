@@ -19,7 +19,7 @@
 ## Intruction
 Melanjutkan praktikum sebelumnya pada repository dengan nama **`Lab7Web.`**
 
-## Step by Step ~
+## Step by Step
 ## BwaT Tabel
  ```
 CREATE TABLE user (
@@ -143,7 +143,7 @@ btn-primary">Login</button>
 </body>
 </html>
 ```
-## UserSeeder bukan User Roam
+## User Seeder bukan User Roam
 Dilanjut dengan Membuat `database seeder`, Buka CLI Kemudyan Masukkan Perintah
  `php spark make:seeder UserSeeder` , Open file `UserSeeder` pada Lokasi /app/Database/Seeds/UserSeeder.php,
  Masukkan atau Masukkin? perintah berikut :
