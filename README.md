@@ -16,11 +16,10 @@
     </table>
 </body>
 
-## Ekhemmm
+## Intruction
 Melanjutkan praktikum sebelumnya pada repository dengan nama **`Lab7Web.`**
 
-## Tutor Yang Singkat Sekali
-
+## Step by Step ~
 ## BwaT Tabel
  ```
 CREATE TABLE user (
